@@ -14,6 +14,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -22,46 +23,19 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/bundle-jars.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/byte-buddy-1.8.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-io-2.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-lang3-3.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-net-3.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/commons-text-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/gson-2.8.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/htmlunit-2.30.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/htmlunit-core-js-2.28.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/htmlunit-cssparser-1.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/htmlunit-driver-2.30.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/httpclient-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/httpcore-4.4.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/httpmime-4.5.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/javax.servlet-api-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jcip-annotations-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jcommander-1.72.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jetty-client-9.4.7.v20170914.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jetty-http-9.4.8.v20171121.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jetty-io-9.4.8.v20171121.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jetty-util-9.4.8.v20171121.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/jetty-xml-9.4.7.v20170914.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/neko-htmlunit-2.30.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/okhttp-3.10.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/okio-1.14.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/selenium-3.13.0-nodeps.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/selenium-3.13.0-nodeps-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/selenium-server-standalone-3.13.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/serializer-2.7.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/snakeyaml-1.19.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/websocket-api-9.4.7.v20170914.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/websocket-client-9.4.7.v20170914.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/websocket-common-9.4.7.v20170914.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/xalan-2.7.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/xercesImpl-2.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/manikabedi/workspace/selenium/libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/selenium-3.141.59-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/selenium-3.141.59-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Manika Bedi/eclipse-workspace/seleniumproject/selenium/libs/snakeyaml-1.19.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
